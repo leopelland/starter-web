@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Yettison Manager yetison@monkey.com
 
 # THANKS
 
